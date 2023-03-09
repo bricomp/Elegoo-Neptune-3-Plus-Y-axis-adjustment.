@@ -1,6 +1,6 @@
 **Elegoo-Neptune-3-Plus-Y-axis-adjustment.**
 
-**These are the instructions provided by Elegoo**
+##### These are the instructions provided by Elegoo
 
 Debug the parallelism of Y guide rail
 
